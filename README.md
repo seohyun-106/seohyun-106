@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ![seohyun-106's github stats](https://github-readme-stats.vercel.app/api?username=seohyun-106&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun-106&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun106)](https://github.com/anuraghazra/github-readme-stats)
